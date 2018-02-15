@@ -1,0 +1,18 @@
+{
+  "name": "comet_poc",
+  "version": "0.1.0",
+  "description": "cometD PoC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ha Doan",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "faye": "^1.2.4",
+    "nforce": "^1.7.0",
+    "socket.io": "^2.0.1"
+  }
+}
